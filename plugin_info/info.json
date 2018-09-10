@@ -1,0 +1,20 @@
+{
+	"id" : "o365",
+	"name" : "Monitoring Office 365",
+	"description" : "Plugin Jeedom de Monitoring d'Office 365 au travers de l'API Graph de Microsoft",
+	"licence" : "AGPL",
+	"author" : "Mathieu Galoseau",
+	"require" : "3.2",
+	"category" : "Monitoring",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
